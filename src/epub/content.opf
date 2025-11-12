@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:40Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:40Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,12 +47,14 @@
 		<meta property="group-position" refines="#collection-1">13</meta>
 		<dc:description id="description">A young woman comes of age in the American Midwest at the turn of the 20th century.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Young Jane Ward is the young daughter of an upper middle class family living in Chicago at the end of the 19th century. She enjoys a comfortable Victorian upbringing, thoroughly inculcated with the morals and values of the age.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Years of Grace&lt;/i&gt; follows Jane as she grows up, falls in love, attends university, and eventually settles down to raise a family of her own. At her heart, Jane is a solidly middle-of-the-road, conservative homebody: not as high-achieving or risk-taking as her friends, but rather preferring to hew closely to the traditional household values she grew up with. While she occasionally longs for a cosmopolitan, romantic life that could have been, she finds contentment in her family and joy it brings.&lt;/p&gt;
+			&lt;p&gt;As the years march on, Jane struggles to come to terms with the way the next generation conducts itself. World War I brings tragedy, and the dawn of the Jazz Age changes how young people live and love in ways Jane simply can’t understand. In this way, she becomes a symbol of a bygone way of life. Jane, and thus her antecedents going back generations, made compromises in life but learned to be content with what they achieved; but does the next generation’s selfish, high-life style really lead to happiness?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/yearsofgrace00barn_2</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">172311</meta>
+		<meta property="se:reading-ease.flesch">77.64</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Years_of_Grace</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-ayer-barnes_years-of-grace</meta>
 		<dc:creator id="author">Margaret Ayer Barnes</dc:creator>
