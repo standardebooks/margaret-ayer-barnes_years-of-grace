@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/margaret-ayer-barnes/years-of-grace</dc:identifier>
 		<dc:date>2026-01-01T16:00:40Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
-		<dc:description id="description">A young woman comes of age in the American Midwest at the turn of the 20th century.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman comes of age in the American Midwest at the turn of the 20th century.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Young Jane Ward is the young daughter of an upper middle class family living in Chicago at the end of the 19th century. She enjoys a comfortable Victorian upbringing, thoroughly inculcated with the morals and values of the age.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Years of Grace&lt;/i&gt; follows Jane as she grows up, falls in love, attends university, and eventually settles down to raise a family of her own. At her heart, Jane is a solidly middle-of-the-road, conservative homebody: not as high-achieving or risk-taking as her friends, but rather preferring to hew closely to the traditional household values she grew up with. While she occasionally longs for a cosmopolitan, romantic life that could have been, she finds contentment in her family and joy it brings.&lt;/p&gt;
 			&lt;p&gt;As the years march on, Jane struggles to come to terms with the way the next generation conducts itself. World War I brings tragedy, and the dawn of the Jazz Age changes how young people live and love in ways Jane simply can’t understand. In this way, she becomes a symbol of a bygone way of life. Jane, and thus her antecedents going back generations, made compromises in life but learned to be content with what they achieved; but does the next generation’s selfish, high-life style really lead to happiness?&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/yearsofgrace00barn_2</dc:source>
 		<meta property="schema:wordCount">167038</meta>
