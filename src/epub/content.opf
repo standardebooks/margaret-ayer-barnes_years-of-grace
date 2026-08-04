@@ -46,7 +46,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Pulitzer Prize for Fiction Winners</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">13</meta>
-		<dc:abstract>A young woman comes of age in the American Midwest at the turn of the 20th century.</dc:abstract>
+		<meta property="schema:abstract">A young woman comes of age in the American Midwest at the turn of the 20th century.</meta>
 		<dc:description>
 			&lt;p&gt;Young Jane Ward is the young daughter of an upper middle class family living in Chicago at the end of the 19th century. She enjoys a comfortable Victorian upbringing, thoroughly inculcated with the morals and values of the age.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Years of Grace&lt;/i&gt; follows Jane as she grows up, falls in love, attends university, and eventually settles down to raise a family of her own. At her heart, Jane is a solidly middle-of-the-road, conservative homebody: not as high-achieving or risk-taking as her friends, but rather preferring to hew closely to the traditional household values she grew up with. While she occasionally longs for a cosmopolitan, romantic life that could have been, she finds contentment in her family and joy it brings.&lt;/p&gt;
